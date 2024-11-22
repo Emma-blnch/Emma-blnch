@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Emma-blnch
-- 👀 I’m interested in *programming*, *web development*, *video games* and *culture*!
+- 👀 I’m interested in **programming**, **web development**, **video games** and **culture**!
 - 🌱 I’m **currently learning** `C`, `HTML` and `CSS`
 - 📫 **How to reach me:** emma.blnch4@gmail.com
 - 😄 Pronouns: she/her
