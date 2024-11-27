@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Emma-blnch
+<h1 align="center"> 👋<strong>Hi, I’m @Emma-blnch</strong> </h1>
+
 - 👀 I’m interested in **programming**, **web development**, **video games** and **culture**!
 - 🌱 I’m **currently learning** `C`, `HTML` and `CSS`
 - 📫 **How to reach me:** emma.blnch4@gmail.com
