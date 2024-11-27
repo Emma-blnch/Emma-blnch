@@ -13,6 +13,13 @@ emma.blnch4@gmail.com
 ## ⚡ **Fun fact**
 I love dinos and could talk about it for hours 🦕
 
+## 💾 **My projects**
+Currently a student at 42 Paris, you can find here the projects I do for the school.
+I started early november 2024 so it's quite recent.
+
+My goal is to finish 42 by august 2025. Wish me luck and motivation 💪✨
+
+
 <!---
 Emma-blnch/Emma-blnch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
