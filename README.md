@@ -7,10 +7,10 @@
 - HTML ![](https://geps.dev/progress/40)
 - CSS ![](https://geps.dev/progress/30)
 
-## 📫 **How to reach me:** 
+## 📫 **How to reach me** 
 emma.blnch4@gmail.com
 
-## ⚡ **Fun fact:**
+## ⚡ **Fun fact**
 I love dinos and could talk about it for hours 🦕
 
 <!---
