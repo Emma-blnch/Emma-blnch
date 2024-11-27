@@ -2,11 +2,10 @@
 
 - 👀 I’m interested in **programming**, **web development**, **video games** and **culture**!
 
-## 🌱 **currently learning** 
-`C` ![](https://geps.dev/progress/20)
-`HTML` ![](https://geps.dev/progress/40)
-and `CSS` ![](https://geps.dev/progress/30)
-
+## 🌱 **Currently learning** 
+- `C` ![](https://geps.dev/progress/20)
+- `HTML` ![](https://geps.dev/progress/40)
+- `CSS` ![](https://geps.dev/progress/30)
 
 ## 📫 **How to reach me:** 
 emma.blnch4@gmail.com
