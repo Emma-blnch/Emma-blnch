@@ -3,7 +3,7 @@
 👀 I’m interested in **programming**, **web development**, **video games** and **culture**!
 
 ## 🌱 **Currently learning** 
-- C ![](https://geps.dev/progress/15)
+- C ![](https://geps.dev/progress/25)
 - HTML ![](https://geps.dev/progress/30)
 - CSS ![](https://geps.dev/progress/25)
 
