@@ -2,9 +2,6 @@
 
 👀 I’m interested in **software development**, **AI engineering**, **video games** and **culture**!
 
-## 📫 **How to reach me** 
-emma.blnch4@gmail.com
-
 ## 💾 **My projects**
 Currently a student at **42 Paris**, you can find here the projects I do for the school.
 I started early *november 2024* so it's quite recent.
@@ -14,9 +11,10 @@ My goal is to finish 42 by *august 2025*. Wish me **luck** and **motivation** �
 ## ⚡ **Fun fact**
 I love dinos and could talk about it for hours 🦕
 
-## 📨 Connect with me
+## 📨 How to reach me
 <p align="left">
 <a href="https://linkedin.com/in/emmablnch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmablnch" height="30" width="40" /></a>
+emma.blnch4@gmail.com
 </p>
 
 ## 💬 Languages and Tools
