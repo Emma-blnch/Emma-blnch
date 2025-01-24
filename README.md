@@ -1,6 +1,6 @@
 <h1 align="center"> 👋<strong>Hi, I’m @Emma-blnch</strong> </h1>
 
-👀 I’m interested in **programming**, **web development**, **video games** and **culture**!
+👀 I’m interested in **software development**, **AI engineering**, **video games** and **culture**!
 
 ## 🌱 **Currently learning** 
 - C ![](https://geps.dev/progress/25)
