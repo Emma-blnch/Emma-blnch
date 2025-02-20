@@ -1,15 +1,40 @@
 <h1 align="center"> 👋<strong>Hi, I’m @Emma-blnch</strong> </h1>
 
-👀 I’m interested in **software development**, **AI engineering**, **video games** and **culture**!
+🎨 **Frontend Developer in training | Passionate about UX/UI & clean code**  
+📍 **Student at 42 Paris | Learning & building web experiences**  
 
-## 💾 **My projects**
-Currently a student at **42 Paris**, you can find here all the projects I do.
-I started early *november 2024* so it's quite recent.
+---
 
-My goal is to finish 42 by *august 2025*. Wish me **luck** and **motivation** 💪✨
+## 🚀 **About Me**
+After working for **4 years in the audiovisual industry**, I made the switch to **web development**.  
+Currently studying at **42 Paris**, I'm focusing on **frontend development, UX/UI best practices, and clean, efficient code**.  
+
+My goal? **Create intuitive, elegant, and high-performance websites**.  
+I'm also interested in **AI-driven interfaces, accessibility, and interactive design**.  
+
+---
+
+## 💡 **What I work with**
+🔹 **Frontend:** HTML, CSS (SASS, Tailwind), JavaScript  
+🔹 **UI/UX:** Responsive Design, Web Accessibility, Figma  
+🔹 **Backend (Basics):** Python, C, Shell, SQL  
+🔹 **Tools:** Git/GitHub, Linux, APIs  
+
+---
+
+## 📌 **Current Projects**
+🛠 **Portfolio Website** – Designed and built my own interactive portfolio  
+🛒 **E-commerce UX/UI Comparison** – Showcasing bad vs. good UX practices  
+🤖 **Figma integration** – Building a website from a Figma mockup 
+
+🔗 **See my projects on my [GitHub repositories](https://github.com/Emma-blnch)**  
+
+---
 
 ## ⚡ **Fun fact**
-I love dinos and could talk about it for hours 🦕
+I love **dinosaurs** and could talk about them for hours 🦕  
+
+---
 
 ## 📨 How to reach me
 <p align="left">
