@@ -5,7 +5,7 @@
 
 
 ## 🚀 **About Me**
-After working for 4 years in the audiovisual industry, I made the switch to **web development**.
+After working for 4 years in the audiovisual industry, I made the switch to **web development**.  
 Currently studying at **42 Paris**, I'm focusing on **frontend development, UX/UI best practices, and clean, efficient code**.
 
 My goal? Create *intuitive, elegant, and high-performance websites*.  
