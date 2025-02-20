@@ -9,9 +9,8 @@ After working for 4 years in the audiovisual industry, I made the switch to **we
 Currently studying at **42 Paris**, I'm focusing on **frontend development, UX/UI best practices, and clean, efficient code**.
 
 My goal? Create *intuitive, elegant, and high-performance websites*.  
-I'm also interested in **AI-driven interfaces, accessibility, and interactive design**.
+I'm also interested in **AI-driven interfaces, accessibility, and interactive design**.  
 
----
 
 ## 💡 **What I work with**
 🔹 **Frontend:** HTML, CSS (SASS, Tailwind), JavaScript  
@@ -19,7 +18,6 @@ I'm also interested in **AI-driven interfaces, accessibility, and interactive de
 🔹 **Backend (Basics):** Python, C, Shell, SQL  
 🔹 **Tools:** Git/GitHub, Linux, APIs  
 
----
 
 ## 📌 **Current Projects**
 🛠 **Portfolio Website** – Designed and built my own interactive portfolio  
@@ -28,12 +26,10 @@ I'm also interested in **AI-driven interfaces, accessibility, and interactive de
 
 🔗 **See my projects on my [GitHub repositories](https://github.com/Emma-blnch)**  
 
----
 
 ## ⚡ **Fun fact**
 I love **dinosaurs** and could talk about them for hours 🦕  
 
----
 
 ## 📨 How to reach me
 <p align="left">
