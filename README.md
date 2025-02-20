@@ -1,16 +1,15 @@
 <h1 align="center"> 👋<strong>Hi, I’m @Emma-blnch</strong> </h1>
 
-🎨 **Frontend Developer in training | Passionate about UX/UI & clean code**  
-📍 **Student at 42 Paris | Learning & building web experiences**  
+🎨 **Frontend Developer in training |** Passionate about UX/UI & clean code
+📍 **Student at 42 Paris |** Learning & building web experiences
 
----
 
 ## 🚀 **About Me**
-After working for **4 years in the audiovisual industry**, I made the switch to **web development**.  
-Currently studying at **42 Paris**, I'm focusing on **frontend development, UX/UI best practices, and clean, efficient code**.  
+After working for **4 years in the audiovisual industry**, I made the switch to **web development**.
+Currently studying at **42 Paris**, I'm focusing on **frontend development, UX/UI best practices, and clean, efficient code**.
 
-My goal? **Create intuitive, elegant, and high-performance websites**.  
-I'm also interested in **AI-driven interfaces, accessibility, and interactive design**.  
+My goal? **Create intuitive, elegant, and high-performance websites**.
+I'm also interested in **AI-driven interfaces, accessibility, and interactive design**.
 
 ---
 
