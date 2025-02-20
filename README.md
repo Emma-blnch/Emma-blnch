@@ -1,6 +1,6 @@
 <h1 align="center"> 👋<strong>Hi, I’m @Emma-blnch</strong> </h1>
 
-🎨 **Frontend Developer in training |** Passionate about UX/UI & clean code
+🎨 **Frontend Developer in training |** Passionate about UX/UI & clean code  
 📍 **Student at 42 Paris |** Learning & building web experiences
 
 
