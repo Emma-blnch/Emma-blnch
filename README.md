@@ -9,13 +9,13 @@ After working for 4 years in the audiovisual industry, I made the switch to **we
 Currently studying at **42 Paris**, I'm focusing on **frontend development, UX/UI best practices, and clean, efficient code**.
 
 My goal? Create *intuitive, elegant, and high-performance websites*.  
-I'm also interested in **AI-driven interfaces, accessibility, and interactive design**.  
+I'm also interested in **AI-driven interfaces, video games, and interactive design**.  
 
 
 ## 💡 **What I work with**
 🔹 **Frontend:** HTML, CSS, JavaScript  
 🔹 **UI/UX:** Responsive Design, Web Accessibility, Figma  
-🔹 **Backend (Basics):** Python, C, C++, Shell 
+🔹 **Backend (Basics):** Python, C, C++, Shell  
 🔹 **Tools:** Git/GitHub, Linux, APIs  
 
 
