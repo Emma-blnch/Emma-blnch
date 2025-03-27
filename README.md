@@ -21,7 +21,7 @@ I'm also interested in **AI-driven interfaces, video games, and interactive desi
 
 ## 📌 **Current Projects**
 🛠 **Portfolio Website** – Designed and built my own interactive portfolio  
-🎮 **Reproduction of Wolfenstein 3d** – Using raycasting technics to have a 2d game with a 3d effect 
+🎮 **Reproduction of Wolfenstein 3d** – Using raycasting technics to have a 2d game with a 3d effect   
 🤖 **Figma integration** – Building a website from a Figma mockup 
 
 🔗 **See my projects on my [GitHub repositories](https://github.com/Emma-blnch)**  
