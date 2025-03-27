@@ -21,7 +21,7 @@ I'm also interested in **AI-driven interfaces, accessibility, and interactive de
 
 ## 📌 **Current Projects**
 🛠 **Portfolio Website** – Designed and built my own interactive portfolio  
-🛒 **E-commerce UX/UI Comparison** – Showcasing bad vs. good UX practices  
+🎮 **Reproduction of Wolfenstein 3d** – Using raycasting technics to have a 2d game with a 3d effect 
 🤖 **Figma integration** – Building a website from a Figma mockup 
 
 🔗 **See my projects on my [GitHub repositories](https://github.com/Emma-blnch)**  
