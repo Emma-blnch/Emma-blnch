@@ -13,9 +13,9 @@ I'm also interested in **AI-driven interfaces, accessibility, and interactive de
 
 
 ## 💡 **What I work with**
-🔹 **Frontend:** HTML, CSS (SASS, Tailwind), JavaScript  
+🔹 **Frontend:** HTML, CSS, JavaScript  
 🔹 **UI/UX:** Responsive Design, Web Accessibility, Figma  
-🔹 **Backend (Basics):** Python, C, Shell, SQL  
+🔹 **Backend (Basics):** Python, C, C++, Shell 
 🔹 **Tools:** Git/GitHub, Linux, APIs  
 
 
