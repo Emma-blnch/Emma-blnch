@@ -22,7 +22,7 @@ I'm also interested in **mobile development, video games, and interactive design
 ## 📌 **Current Projects**
 🛠 **Portfolio Website** – Designed and built my own interactive portfolio  
 🎮 **Reproduction of Wolfenstein 3d** – Using raycasting technics to have a 2d game with a 3d effect   
-🤖 **Figma integration** – Building a website from a Figma mockup 
+🤖 **Pomodoro App** – Building a pomodoro Android App with Flutter 
 
 🔗 **See my projects on my [GitHub repositories](https://github.com/Emma-blnch)**  
 
