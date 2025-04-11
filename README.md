@@ -5,11 +5,11 @@
 
 
 ## 🚀 **About Me**
-After working for 4 years in the audiovisual industry, I made the switch to **web development**.  
-Currently studying at **42 Paris**, I'm focusing on **frontend development, UX/UI best practices, and clean, efficient code**.
+After working for 4 years in the audiovisual industry, I made the switch to **software development**.  
+Currently studying at **42 Paris**, I'm focusing on **fullstack development, UX/UI best practices, and clean, efficient code**.
 
-My goal? Create *intuitive, elegant, and high-performance websites*.  
-I'm also interested in **AI-driven interfaces, video games, and interactive design**.  
+My goal? Create *intuitive, elegant, and high-performance products*.  
+I'm also interested in **mobile development, video games, and interactive design**.  
 
 
 ## 💡 **What I work with**
