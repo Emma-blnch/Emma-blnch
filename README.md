@@ -13,10 +13,10 @@ I'm also interested in **mobile development, video games, and interactive design
 
 
 ## 💡 **What I work with**
-🔹 **Frontend:** HTML, CSS, JavaScript  
+🔹 **Languages:** HTML/CSS, JavaScript, Python, C, C++, Shell  
 🔹 **UI/UX:** Responsive Design, Web Accessibility, Figma  
-🔹 **Backend (Basics):** Python, C, C++, Shell  
-🔹 **Tools:** Git/GitHub, Linux, APIs  
+🔹 **Frameworks (basics):** Flutter, Node.js 
+🔹 **Tools:** Git/GitHub, Linux, APIs, AWS, VSCode  
 
 
 ## 📌 **Current Projects**
