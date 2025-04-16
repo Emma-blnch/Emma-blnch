@@ -4,7 +4,6 @@
 🎓 **Student at 42 Paris |** Looking for an **apprenticeship in embedded or front-end development** starting **September 2025**  
 📍 Based in Lille / Paris | Open to remote
 
----
 
 ## 🚀 **About Me**
 After 4 years working in the audiovisual industry, I made the switch to **software development**  — a world where I can combine my technical curiosity and creative mindset.  
@@ -34,7 +33,6 @@ What I love? Learning by building, writing clean and efficient code, and working
 ## ⚡ **Fun fact**
 I love **dinosaurs** and could talk about them for hours 🦕  
 
----
 
 ## 📨 How to reach me
 <p align="left">
