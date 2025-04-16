@@ -22,10 +22,26 @@ What I love? Learning by building, writing clean and efficient code, and working
 🔹 **Tools:** Git/GitHub, Linux, APIs, AWS, VSCode  
 
 
-## 📌 **Current Projects**
+## 📌 **Featured Projects**
 🛠 **Portfolio Website** – Designed and oded my own responsive portfolio using HTML/CSS/JS   
 🎮 **Cub3D** – A 3D raycasting engine in C inspired by Wolfenstein 3D (textures, DDA, wall collision, HUD)  
 ⏱ **Pomodoro App** – Built a productivity timer app in Flutter with animated visuals and custom settings  
+
+### 🖥️ Software Engineering (C, C++)
+- [Cub3D](lien) – 3D Raycasting engine in C (textures, DDA, HUD, wall collision)
+- [Minishell](lien) – Bash-like shell with parsing, signals and pipes
+- [Pipex](lien) – Reproduction of Unix pipelines with `execve` and forks
+
+### 🌐 Front-End & UI
+- [Personal Portfolio](lien) – HTML/CSS/JS responsive site
+- [Pomodoro App](lien) – Flutter mobile app with animations and timer logic
+- [Figma → Web](lien) – Static page based on a Figma UI
+
+### 🧠 Projects from Hackathons
+- [GenAI Hackathon](lien) – PDF sentiment analysis using AWS & Bedrock (team of 4)
+
+### ✨ Exploratory / Side Projects
+- [Tech Blog](lien) – Articles on C, raycasting, 42 journey (in progress)
 
 🔗 **Check out my [GitHub repositories](https://github.com/Emma-blnch) for more!**  
 
