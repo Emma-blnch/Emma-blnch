@@ -23,25 +23,22 @@ What I love? Learning by building, writing clean and efficient code, and working
 
 
 ## 📌 **Featured Projects**
-🛠 **Portfolio Website** – Designed and oded my own responsive portfolio using HTML/CSS/JS   
-🎮 **Cub3D** – A 3D raycasting engine in C inspired by Wolfenstein 3D (textures, DDA, wall collision, HUD)  
-⏱ **Pomodoro App** – Built a productivity timer app in Flutter with animated visuals and custom settings  
 
 ### 🖥️ Software Engineering (C, C++)
-- [Cub3D](lien) – 3D Raycasting engine in C (textures, DDA, HUD, wall collision)
-- [Minishell](lien) – Bash-like shell with parsing, signals and pipes
-- [Pipex](lien) – Reproduction of Unix pipelines with `execve` and forks
+- [Cub3D](https://github.com/Emma-blnch/cub3d) – 3D Raycasting engine in C (textures, DDA, HUD, wall collision)
+- [Minishell](https://github.com/Emma-blnch/minishell) – Bash-like shell with parsing, signals and pipes
+- [Pipex](https://github.com/Emma-blnch/Pipex) – Reproduction of Unix pipelines with `execve` and forks
 
 ### 🌐 Front-End & UI
-- [Personal Portfolio](lien) – HTML/CSS/JS responsive site
-- [Pomodoro App](lien) – Flutter mobile app with animations and timer logic
-- [Figma → Web](lien) – Static page based on a Figma UI
+- [Personal Portfolio](https://github.com/Emma-blnch/Portfolio) – HTML/CSS/JS responsive site
+- [Pomodoro App](https://github.com/Emma-blnch/Flutter-pomodoro-app) – Flutter mobile app with animations and timer logic
+- [Figma → Web](https://github.com/Emma-blnch/Figma-to-HTML) – Static page based on a Figma UI
 
 ### 🧠 Projects from Hackathons
-- [GenAI Hackathon](lien) – PDF sentiment analysis using AWS & Bedrock (team of 4)
+- [GenAI Hackathon](https://github.com/Emma-blnch/GenAI-Hackaton-02-2025) – PDF sentiment analysis using AWS & Bedrock (team of 4)
 
 ### ✨ Exploratory / Side Projects
-- [Tech Blog](lien) – Articles on C, raycasting, 42 journey (in progress)
+- [Tech Blog](https://github.com/Emma-blnch/Blog-technique) – Articles on C, raycasting, 42 journey (in progress)
 
 🔗 **Check out my [GitHub repositories](https://github.com/Emma-blnch) for more!**  
 
