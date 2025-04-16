@@ -30,7 +30,6 @@ What I love? Learning by building, writing clean and efficient code, and working
 
 🔗 **Check out my [GitHub repositories](https://github.com/Emma-blnch) for more!**  
 
----
 
 ## ⚡ **Fun fact**
 I love **dinosaurs** and could talk about them for hours 🦕  
