@@ -25,7 +25,7 @@ What I love? Learning by building, writing clean and efficient code, and working
 ## 📌 **Featured Projects**
 
 ### 🖥️ Software Engineering (C, C++)
-- [Cub3D](https://github.com/Emma-blnch/cub3d) – 3D Raycasting engine in C (textures, DDA, HUD, wall collision)
+- [Cub3D](https://github.com/Emma-blnch/cub3D) – 3D Raycasting engine in C (textures, DDA, HUD, wall collision)
 - [Minishell](https://github.com/Emma-blnch/minishell) – Bash-like shell with parsing, signals and pipes
 - [Pipex](https://github.com/Emma-blnch/Pipex) – Reproduction of Unix pipelines with `execve` and forks
 
