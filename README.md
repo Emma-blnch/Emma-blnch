@@ -1,25 +1,26 @@
 <h1 align="center"> 👋<strong>Hi, I’m @Emma-blnch</strong> </h1>
 
-🎨 **Junior Software Developer |** Passionate about clean code, creative interfaces & smart systems.  
-🎓 **Student at 42 Paris |** Looking for an **apprenticeship in embedded or front-end development** starting **September 2025**  
+🎨 **Junior Software Developer |** Passionate about clean code, creative problem-solving & smart systems.  
+🎓 **Student at 42 Paris |** Looking for an **apprenticeship in back-end or software development** starting **September 2025**  
 📍 Based in Lille / Paris | Open to remote
 
 
 ## 🚀 **About Me**
 After 4 years working in the audiovisual industry, I made the switch to **software development**  — a world where I can combine my technical curiosity and creative mindset.  
 
-I'm currently studying at **42 Paris**, where I learn programming through peer-to-peer projects, mostly in **C**, **C++**, and **web development**. I'm especially interested in:
-- **Embedded systems** for their performance and logic challenges
-- **Front-end development** for its visual impact and creative freedom
+I'm currently studying at **42 Paris**, where I learn programming through peer-to-peer projects, mostly in **C** and **C++**. I'm especially interested in:
+- **Algorithmics** for their technical challenges
+- **Back-end development** for its problem-solving nature, and how it powers real-world applications.  
 
-What I love? Learning by building, writing clean and efficient code, and working in collaborative environments.
+What I love? Learning by building, writing clean and efficient code, and working in collaborative environments.  
+🎮 I'm also passionate about video games — I love projects that combine logic, gameplay and immersion.  
 
 
 ## 💡 **Tech stack**
-🔹 **Languages:** C, C++, HTML/CSS, JavaScript, Python, Shell  
+🔹 **Languages:** C, C++, JavaScript, Python, Shell, HTML/CSS  
+🔹 **Tools:** Git/GitHub, Linux, APIs, AWS (basics), VSCode  
 🔹 **UI/UX:** Responsive Design, Accessibility, Figma  
-🔹 **Frameworks (basics):** Flutter, Node.js   
-🔹 **Tools:** Git/GitHub, Linux, APIs, AWS, VSCode  
+🔹 **Frameworks (basics):** Flutter, Node.js    
 
 
 ## 📌 **Featured Projects**
@@ -29,7 +30,7 @@ What I love? Learning by building, writing clean and efficient code, and working
 - [Minishell](https://github.com/Emma-blnch/minishell) – Bash-like shell with parsing, signals and pipes
 - [Pipex](https://github.com/Emma-blnch/Pipex) – Reproduction of Unix pipelines with `execve` and forks
 
-### 🌐 Front-End & UI
+### 🌐 Web & Mobile Interfaces
 - [Personal Portfolio](https://github.com/Emma-blnch/Portfolio) – HTML/CSS/JS responsive site
 - [Pomodoro App](https://github.com/Emma-blnch/Flutter-pomodoro-app) – Flutter mobile app with animations and timer logic
 - [Figma → Web](https://github.com/Emma-blnch/Figma-to-HTML) – Static page based on a Figma UI
