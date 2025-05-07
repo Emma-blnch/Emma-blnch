@@ -52,10 +52,16 @@ I love **dinosaurs** and could talk about them for hours 🦕
 <a href="mailto:emma_blnch4@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="emmablnch_gmail" height="25" width="35" /></a>
   <a href="https://linkedin.com/in/emmablnch"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmablnch" height="30" width="40" /></a>
 </p>
+   
+
+### 🤝 Active at 42 beyond code  
+
+I love building things from scratch — whether it’s a tool, an interface, or a project idea.  
+Here’s a glimpse of how I stay engaged with the community 👇
 
 <p align="center">
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/entrepreneure.png">
   <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/eventse.png">
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/entrepreneure.png">
   <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/evaluatione.png">
 </p>
 
