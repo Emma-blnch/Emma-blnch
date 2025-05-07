@@ -54,7 +54,7 @@ I love **dinosaurs** and could talk about them for hours 🦕
 </p>
    
 
-### 🤝 Active at 42 beyond code  
+## 🤝 Active at 42 beyond code  
 
 I love building things from scratch — whether it’s a tool, an interface, or a project idea.  
 Here’s a glimpse of how I stay engaged with the community 👇
