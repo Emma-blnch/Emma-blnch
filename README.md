@@ -57,7 +57,6 @@ I love **dinosaurs** and could talk about them for hours 🦕
 ## 🤝 Beyond code  
 
 I love building things from scratch — whether it’s a tool, an interface, or a project idea.  
-Here’s a glimpse of how I stay engaged with the community 👇
 
 <p align="center">
   <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/eventse.png">
