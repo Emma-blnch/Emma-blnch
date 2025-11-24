@@ -1,7 +1,7 @@
 <h1 align="center"> 👋<strong>Hi, I’m @Emma-blnch</strong> </h1>
 
 🎨 **Junior Fullstack Developer |** Passionate about clean code, creative problem-solving & modern impactful designs.  
-📜 **Front-end developer in work-study programme** at Skores Lille.   
+📜 **Front-end developer in work-study program** at Skores Lille.   
 🎓 **2nd year student at 42 Paris**   
 📍 Based in Lille / Paris | Open to remote
 
