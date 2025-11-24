@@ -1,7 +1,8 @@
 <h1 align="center"> 👋<strong>Hi, I’m @Emma-blnch</strong> </h1>
 
-🎨 **Junior Software Developer |** Passionate about clean code, creative problem-solving & smart systems.  
-🎓 **Student at 42 Paris |** Looking for an **apprenticeship in back-end or software development** starting **September 2025**  
+🎨 **Junior Fullstack Developer |** Passionate about clean code, creative problem-solving & modern impactful designs.  
+📜 **Front-end developer in work-study programme** at Skores Lille.   
+🎓 **2nd year student at 42 Paris**   
 📍 Based in Lille / Paris | Open to remote
 
 
@@ -9,18 +10,18 @@
 After 4 years working in the audiovisual industry, I made the switch to **software development**  — a world where I can combine my technical curiosity and creative mindset.  
 
 I'm currently studying at **42 Paris**, where I learn programming through peer-to-peer projects, mostly in **C** and **C++**. I'm especially interested in:
-- **Algorithmics** for their technical challenges
+- **Design** for the creativity it offers.
 - **Back-end development** for its problem-solving nature, and how it powers real-world applications.  
 
-What I love? Learning by building, writing clean and efficient code, and working in collaborative environments.  
+What I love? Testing new things, making a code-base clean and efficient, and working in collaborative environments.  
 🎮 I'm also passionate about video games — I love projects that combine logic, gameplay and immersion.  
 
 
 ## 💡 **Tech stack**
-🔹 **Languages:** C, C++, JavaScript, Python, Shell, HTML/CSS  
-🔹 **Tools:** Git/GitHub, Linux, APIs, AWS (basics), VSCode  
-🔹 **UI/UX:** Responsive Design, Accessibility, Figma  
-🔹 **Frameworks (basics):** Flutter, Node.js    
+🔹 **Languages:** C, C++, JavaScript, Typescript, Python, Shell, HTML/CSS  
+🔹 **Tools:** Git/GitHub, Linux, APIs, AWS (basics), VSCode, PHP storm  
+🔹 **UI/UX:** Responsive Design, Accessibility, Figma, Canva  
+🔹 **Frameworks:** Node.js, Symfony, Flutter (bascis)    
 
 
 ## 📌 **Featured Projects**
@@ -68,7 +69,7 @@ I love building things from scratch — whether it’s a tool, an interface, or 
 ## 💬 Languages and Tools
 <!-- <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 -->
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,py,c,cpp,nodejs,docker,mysql,git,figma,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,py,c,cpp,php,symfony,nodejs,docker,mysql,git,figma,pr,phpstorm)](https://skillicons.dev)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emma-blnch&show_icons=true&locale=en&layout=compact" alt="emma-blnch" />
