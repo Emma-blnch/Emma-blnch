@@ -1,8 +1,8 @@
 <h1 align="center"> 👋<strong>Hi, I’m Emma Blanchard</strong> </h1>
 
-🎨 **Junior Front-End Developer & Freelance |** I build **fast, accessible and responsive web interfaces**, with a strong attention to UX, performance and clean code. 
-📍 Based in Lille / Paris | Open to remote missions  
-📜 **Front-end developer in apprenticeship** at Skores Media Lille.   
+🎨 **Junior Front-End Developer & Freelance |** I build **fast, accessible and responsive web interfaces**, with a strong attention to UX, performance and clean code.   
+📍 Based in Lille / Paris | Open to remote missions    
+📜 **Front-end developer in apprenticeship** at Skores Media Lille.    
 🎓 **Student at 42 Paris**   
 
 ## 🚀 **About Me**
@@ -22,7 +22,7 @@ I enjoy working on real-world projects, collaborating with designers, developers
 
 ## 💡 **Tech stack**
 🔹 **Languages:** HTML, CSS, Tailwind, C, C++, JavaScript, Typescript, Python, PHP   
-🔹 **Tools:** Git/GitHub, Linux, APIs, AWS (basics), VSCode, PHP storm , Docker 
+🔹 **Tools:** Git/GitHub, Linux, APIs, AWS (basics), VSCode, PHP storm , Docker  
 🔹 **UI/UX:** Responsive Design, Accessibility, Figma, Canva  
 🔹 **Frameworks:** Node.js, Symfony, Flutter (basics)    
 
@@ -30,15 +30,16 @@ I enjoy working on real-world projects, collaborating with designers, developers
 ## 📌 **Featured Projects**
 
 ### 🌐 Web & Mobile Interfaces
-- [Personal Portfolio](https://emma-blnch.fr) – Freelance portfolio — responsive, accessible
-- [Singulã – Professional Website](https://www.singula-sophrologie.fr/) – Website for a wellness professional
-- [SportyTrader](https://www.sportytrader.com/) – Front-end integration in a production environment
-- [Figma → Web](https://github.com/Emma-blnch/Figma-to-HTML) – Static page based on a Figma UI
+- [Personal Portfolio](https://emma-blnch.fr) – Freelance portfolio — responsive, accessible   
+- [Singulã – Professional Website](https://www.singula-sophrologie.fr/) – Website for a wellness professional   
+- [SportyTrader](https://www.sportytrader.com/) – Front-end integration in a production environment   
+- [Figma → Web](https://github.com/Emma-blnch/Figma-to-HTML) – Static page based on a Figma UI   
 
-### 🖥️ Software Engineering (C, C++)
-- [Cub3D](https://github.com/Emma-blnch/cub3D) – 3D Raycasting engine in C (textures, DDA, HUD, wall collision)
-- [Minishell](https://github.com/Emma-blnch/minishell) – Bash-like shell with parsing, signals and pipes
-- [Pipex](https://github.com/Emma-blnch/Pipex) – Reproduction of Unix pipelines with `execve` and forks  
+### 🖥️ Engineering Background (C, C++)
+- [Cub3D](https://github.com/Emma-blnch/cub3D) – 3D Raycasting engine in C (textures, DDA, HUD, wall collision)   
+- [Minishell](https://github.com/Emma-blnch/minishell) – Bash-like shell with parsing, signals and pipes   
+- [Pipex](https://github.com/Emma-blnch/Pipex) – Reproduction of Unix pipelines with `execve` and forks   
+> These projects strengthened my **problem-solving skills**, rigor, and understanding of how systems work under the hood.   
 
 ### 🧠 Projects from Hackathons
 - [GenAI Hackathon](https://github.com/Emma-blnch/GenAI-Hackaton-02-2025) – PDF sentiment analysis using AWS & Bedrock (team of 4)
