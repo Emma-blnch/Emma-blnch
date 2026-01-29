@@ -1,40 +1,44 @@
-<h1 align="center"> 👋<strong>Hi, I’m @Emma-blnch</strong> </h1>
+<h1 align="center"> 👋<strong>Hi, I’m Emma Blanchard</strong> </h1>
 
-🎨 **Junior Fullstack Developer |** Passionate about clean code, creative problem-solving & modern impactful designs.  
+🎨 **Junior Front-End Developer & Freelance |** I build **fast, accessible and responsive web interfaces**, with a strong attention to UX, performance and clean code. 
+📍 Based in Lille / Paris | Open to remote missions  
 📜 **Front-end developer in apprenticeship** at Skores Media Lille.   
-🎓 **2nd year student at 42 Paris**   
-📍 Based in Lille / Paris | Open to remote
-
+🎓 **Student at 42 Paris**   
 
 ## 🚀 **About Me**
 After 4 years working in the audiovisual industry, I made the switch to **software development**  — a world where I can combine my technical curiosity and creative mindset.  
 
-I'm currently studying at **42 Paris**, where I learn programming through peer-to-peer projects, mostly in **C** and **C++**. I'm especially interested in:
-- **Design** for the creativity it offers.
-- **Back-end development** for its problem-solving nature, and how it powers real-world applications.  
+I specialize in **front-end development**, with a strong interest in:
+- clean and maintainable UI code
+- accessibility and responsive design
+- subtle animations and visual polish
+- performance and SEO-friendly websites  
 
-What I love? Testing new things, making a code-base clean and efficient, and working in collaborative environments.  
+My background at **42 Paris** gave me solid engineering foundations (C / C++), which I now apply to writing **robust, structured front-end code**.   
+
+I enjoy working on real-world projects, collaborating with designers, developers and clients, and turning ideas into reliable products.   
 🎮 I'm also passionate about video games — I love projects that combine logic, gameplay and immersion.  
 
 
 ## 💡 **Tech stack**
-🔹 **Languages:** C, C++, JavaScript, Typescript, Python, Shell, HTML/CSS  
-🔹 **Tools:** Git/GitHub, Linux, APIs, AWS (basics), VSCode, PHP storm  
+🔹 **Languages:** HTML, CSS, Tailwind, C, C++, JavaScript, Typescript, Python, PHP   
+🔹 **Tools:** Git/GitHub, Linux, APIs, AWS (basics), VSCode, PHP storm , Docker 
 🔹 **UI/UX:** Responsive Design, Accessibility, Figma, Canva  
-🔹 **Frameworks:** Node.js, Symfony, Flutter (bascis)    
+🔹 **Frameworks:** Node.js, Symfony, Flutter (basics)    
 
 
 ## 📌 **Featured Projects**
 
+### 🌐 Web & Mobile Interfaces
+- [Personal Portfolio](https://emma-blnch.fr) – Freelance portfolio — responsive, accessible
+- [Singulã – Professional Website](https://www.singula-sophrologie.fr/) – Website for a wellness professional
+- [SportyTrader](https://www.sportytrader.com/) – Front-end integration in a production environment
+- [Figma → Web](https://github.com/Emma-blnch/Figma-to-HTML) – Static page based on a Figma UI
+
 ### 🖥️ Software Engineering (C, C++)
 - [Cub3D](https://github.com/Emma-blnch/cub3D) – 3D Raycasting engine in C (textures, DDA, HUD, wall collision)
 - [Minishell](https://github.com/Emma-blnch/minishell) – Bash-like shell with parsing, signals and pipes
-- [Pipex](https://github.com/Emma-blnch/Pipex) – Reproduction of Unix pipelines with `execve` and forks
-
-### 🌐 Web & Mobile Interfaces
-- [Personal Portfolio](https://github.com/Emma-blnch/Portfolio) – HTML/CSS/JS responsive site
-- [Pomodoro App](https://github.com/Emma-blnch/Flutter-pomodoro-app) – Flutter mobile app with animations and timer logic
-- [Figma → Web](https://github.com/Emma-blnch/Figma-to-HTML) – Static page based on a Figma UI
+- [Pipex](https://github.com/Emma-blnch/Pipex) – Reproduction of Unix pipelines with `execve` and forks  
 
 ### 🧠 Projects from Hackathons
 - [GenAI Hackathon](https://github.com/Emma-blnch/GenAI-Hackaton-02-2025) – PDF sentiment analysis using AWS & Bedrock (team of 4)
