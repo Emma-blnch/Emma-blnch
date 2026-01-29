@@ -1,6 +1,7 @@
 <h1 align="center"> 👋<strong>Hi, I’m Emma Blanchard</strong> </h1>
 
-🎨 **Junior Front-End Developer & Freelance |** I build **fast, accessible and responsive web interfaces**, with a strong attention to UX, performance and clean code.   
+🎨 **Junior Front-End Developer & Freelance   
+** I build **fast, accessible and responsive web interfaces**, with a strong attention to UX, performance and clean code.   
 📍 Based in Lille / Paris | Open to remote missions    
 📜 **Front-end developer in apprenticeship** at Skores Media Lille.    
 🎓 **Student at 42 Paris**   
