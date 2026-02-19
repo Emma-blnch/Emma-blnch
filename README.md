@@ -40,7 +40,7 @@ I enjoy working on real-world projects, collaborating with designers, developers
 ### 🖥️ Engineering Background (C, C++)
 - [Cub3D](https://github.com/Emma-blnch/cub3D) – 3D Raycasting engine in C (textures, DDA, HUD, wall collision)   
 - [Minishell](https://github.com/Emma-blnch/minishell) – Bash-like shell with parsing, signals and pipes   
-- [Pipex](https://github.com/Emma-blnch/Pipex) – Reproduction of Unix pipelines with `execve` and forks   
+- [Inception](https://github.com/Emma-blnch/Inception-Docker-project) – Complete infrastructure of services using Docker and Docker Compose     
 > These projects strengthened my **problem-solving skills**, rigor, and understanding of how systems work under the hood.   
 
 ### 🧠 Projects from Hackathons
@@ -48,6 +48,7 @@ I enjoy working on real-world projects, collaborating with designers, developers
 
 ### ✨ Exploratory / Side Projects
 - [Tech Blog](https://github.com/Emma-blnch/Blog-technique) – Articles on C, raycasting, 42 journey (in progress)
+- [Scop](https://github.com/Emma-blnch/scop) - A lightweight 3D object viewer in c++/OpenGL   
 
 🔗 **Check out my [GitHub repositories](https://github.com/Emma-blnch) for more!**  
 
