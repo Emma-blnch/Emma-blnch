@@ -5,7 +5,7 @@ I build **fast, accessible and responsive web interfaces**, with a strong attent
 
 📍 Based in Lille / Paris | Open to remote missions    
 📜 **Front-end developer in apprenticeship** at Skores Media Lille.    
-🎓 **42 Paris | 🔐 Cybersécurité | 🎮 Jeu vidéo**   
+🎓 **42 Paris | 🔐 Cybersecurity**   
 
 ## 🚀 **About Me**
 After several years in audiovisual, I switched to dev — not a pivot, a **continuity**. Same need to build things that hold together visually 
