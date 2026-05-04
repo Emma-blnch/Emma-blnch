@@ -1,22 +1,22 @@
 <h1 align="center"> 👋<strong>Hi, I’m Emma Blanchard</strong> </h1>
 
-🎨 **Junior Front-End Developer & Freelance**   
+🌐 **Développeuse web · Co-fondatrice de Trainlytics**   
 I build **fast, accessible and responsive web interfaces**, with a strong attention to UX, performance and clean code.  
 
 📍 Based in Lille / Paris | Open to remote missions    
 📜 **Front-end developer in apprenticeship** at Skores Media Lille.    
-🎓 **Student at 42 Paris**   
+🎓 **42 Paris | 🔐 Cybersécurité | 🎮 Jeu vidéo**   
 
 ## 🚀 **About Me**
-After 4 years working in the audiovisual industry, I made the switch to **software development**  — a world where I can combine my technical curiosity and creative mindset.  
+After several years in audiovisual, I switched to dev — not a pivot, a **continuity**. Same need to build things that hold together visually 
+and technically.
 
-I specialize in **front-end development**, with a strong interest in:
-- clean and maintainable UI code
-- accessibility and responsive design
-- subtle animations and visual polish
-- performance and SEO-friendly websites  
+I do both front and back, I have an eye for design, and I'm increasingly drawn to cybersecurity — I like understanding how things break.
 
-My background at **42 Paris** gave me solid engineering foundations (C / C++), which I now apply to writing **robust, structured front-end code**.   
+Currently co-founding **Trainlytics**, a data app for endurance athletes and coaches — aggregating Garmin, Google Health and Wahoo data against 
+scientific benchmarks. Built with React · TypeScript · Python · Supabase.
+
+My 42 background gave me solid engineering foundations: C, algorithms, systems, Docker. I like going deep.   
 
 I enjoy working on real-world projects, collaborating with designers, developers and clients, and turning ideas into reliable products.   
 🎮 I'm also passionate about video games — I love projects that combine logic, gameplay and immersion.  
@@ -30,6 +30,9 @@ I enjoy working on real-world projects, collaborating with designers, developers
 
 
 ## 📌 **Featured Projects**
+
+### Current big project : 🏅 Trainlytics   
+- [trainlytics.app](https://trainlytics.app) – Data app for endurance athletes · React · TypeScript · Python · Supabase · Cloudflare Pages    
 
 ### 🌐 Web & Mobile Interfaces
 - [Personal Portfolio](https://emma-blnch.fr) – Freelance portfolio — responsive, accessible   
