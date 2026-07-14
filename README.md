@@ -1,6 +1,6 @@
 <h1 align="center"> 👋<strong>Hi, I’m Emma Blanchard</strong> </h1>
 
-🌐 **Développeuse web · Co-fondatrice de Trainlytics**   
+🌐 **Web Fullstack Developer · Co-founder of Trainlytics**   
 I build **fast, accessible and responsive web interfaces**, with a strong attention to UX, performance and clean code.  
 
 📍 Based in Lille / Paris | Open to remote missions    
